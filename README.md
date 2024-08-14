@@ -30,7 +30,7 @@ Below are main features. Jupyter notebook examples can be found [here](https://c
 - Bloomberg official Python API:
 
 ```cmd
-pip install blpapi --index-url=https://bcms.bloomberg.com/pip/simple/
+pip install blpapi --index-url=https://blpapi.bloomberg.com/repository/releases/python/simple
 ```
 
 - `numpy`, `pandas`, `ruamel.yaml` and `pyarrow`
